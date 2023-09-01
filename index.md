@@ -19,7 +19,7 @@ Syntax highlighted code block
 - No Homwork :)
 - Awesome Mentors
 - Great learning Environment
-- 
+  
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
